@@ -7,35 +7,35 @@
 }
 
 #home {
-  background: url(images/workhard.jpg);
+  background: url(workhard.jpg);
   height: 750px;
   background-position: left top;
   background-size: 100% 100%;
 }
 
 #about {
-  background: url(images/boardb.jpg);
+  background: url(boardb.jpg);
   height: 750px;
   background-position: left top;
   background-size: 100% 100%;
 }
 
 #work {
-  background: url(images/codeb.jpg);
+  background: url(codeb.jpg);
   height: 750px;
   background-position: left top;
   background-size: 100% 100%;
 }
 
 #contact {
-  background: url(images/laptopb.jpg);
+  background: url(laptopb.jpg);
   height: 750px;
   background-position: left top;
   background-size: 100% 100%;
 }
 
 .button {
-  background-color: transparent; /* Green */
+  background-color: transparent;
   border: 2px solid #e7e7e7;
   border-radius: 4px;
   color: white;
