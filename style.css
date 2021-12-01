@@ -195,8 +195,8 @@ td {
 }
 
 .navMenu a:nth-child(1):hover ~ .dot {
-  -webkit-transform: translateX(630px);
-  transform: translateX(630px);
+  -webkit-transform: translateX(620px);
+  transform: translateX(620px);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   opacity: 1;
@@ -219,8 +219,8 @@ td {
 }
 
 .navMenu a:nth-child(4):hover ~ .dot {
-  -webkit-transform: translateX(883px);
-  transform: translateX(883px);
+  -webkit-transform: translateX(890px);
+  transform: translateX(890px);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   opacity: 1;
